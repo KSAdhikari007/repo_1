@@ -1,4 +1,4 @@
 # repo_1
-my first git repository
+my second git repository
 <br>
 by -  Karan singh adhikari
